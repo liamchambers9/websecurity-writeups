@@ -1,6 +1,6 @@
-# Portswigger Web Security Academy Notes 
+# Web Security Notes 
 
- This repository is a personal log of my learning progress as I work through the Portswigger Web Security Academy Labs. In no way do I intend to violate Portswigger's terms of service.  
+ This repository is a personal log of my learning progress as I work through Web Security Labs. In no way do I intend to violate terms of service of any platform.  
 
 ---
 
